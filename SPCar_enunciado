@@ -1,0 +1,13 @@
+A loja SPCar precisa de um programa para auxiliar na cobrança de serviços de locação de veículos. o programa deve ler os seguintes dados:
+
+1. modelo do carro alugado;
+
+2. valor da diária para locação;
+
+3. quantidade de dias de locação;
+
+4. quantidade de Km percorridos.
+
+Logo após a entrada de dados programa deve calcular o preço total a pagar, sabendo que será cobrado R$0,20 por Km rodado. No final do programa exibir na tela o modelo do carro e valor total a pagar.
+
+Escreva a codificação em JAVA para atender a nececssidade da locadora SPCar. 
